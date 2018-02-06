@@ -9,7 +9,7 @@ alert("Hey!");
 });
 }
 function frameIt(){
-  $('.tasty').on('load', function(){
+  $('#tasty').on('load', function(){
   return;
 });
 }
