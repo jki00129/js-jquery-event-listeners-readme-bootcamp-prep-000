@@ -9,8 +9,7 @@ alert("Hey!");
 });
 }
 function frameIt(){
-  $('img').on('load', function(){
-   $('.tasty')
+  $('tasty').on('load', function(){
   return;
 });
 }
