@@ -10,7 +10,8 @@ alert("Hey!");
 }
 function frameIt(){
   $('img').on('load', function(){
-  return $('#tasty');
+    
+  return;
 });
 }
 
