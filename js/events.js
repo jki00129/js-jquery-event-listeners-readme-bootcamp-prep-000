@@ -10,7 +10,7 @@ alert("Hey!");
 }
 function frameIt(){
   $('img').on('load', function(){
-  return;
+  return $('img');
 });
 }
 
