@@ -23,8 +23,8 @@ function submitIt(){
 
 function pressIt(){
   $(document).on('keydown', function(key) {
-  if(key.which == G){
-      alert('s was pressed');
+  if(key.which == 71){
+      alert('G key was pressed');
   }
 });
 }
