@@ -9,7 +9,7 @@ alert("Hey!");
 
 function frameIt(){
   $('img').on('load', function(){
-    add('.tasty')
+   
   return;
 });
 }
