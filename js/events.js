@@ -15,6 +15,8 @@ function frameIt(){
 }
 
 function submitIt(){
-  alert()
+  
+  alert("Your form is going to be submitted now.");
+  return;
 }
 
