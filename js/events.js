@@ -14,5 +14,7 @@ function frameIt(){
 });
 }
 
-function 
+function submitIt(){
+  alert()
+}
 
