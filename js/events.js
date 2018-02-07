@@ -7,12 +7,6 @@ alert("Hey!");
 });
 }
 
-function frameIt(){
-  $('img').on('load', function(){
-   
-  return;
-});
-}
 
 function submitIt(){
   $("form").on("submit", function() {
